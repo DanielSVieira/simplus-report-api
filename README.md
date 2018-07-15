@@ -55,6 +55,12 @@ http://localhost:8080/report/createReport?companyName=anho
 ```
 
 
+To catch all APIs available, please read documentation at:
+
+```
+http://localhost:8080/v2/api-docs
+```
+
 
 ### Generating an war for this project
 

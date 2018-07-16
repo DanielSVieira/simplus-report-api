@@ -4,7 +4,13 @@ This is a project based on Spring Boot + JPA, running over a H2 Database.
 The goal of this project is create an application for reports. 
 There is 2 reports for each company, and all of them should be added into a zip file.
 
+# Requirements to run this project
+
+ - Java 8+
+ - Maven
+
 # How run this project 
+ 
 go to ${projectRoot}/
 
 
